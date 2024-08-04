@@ -2,6 +2,16 @@
     "name": "Patron mods",
     "mods": [
         {
+            "id": "kurenai_date",
+            "name": "Date with Kurenai",
+            "version": "1.0",
+            "description": "Event with Kurenai with animated scene.\n{size=-5}Start event via Cheats - Events{/size}\n\n{size=-8}English and Russian translations only.{/size}",
+            "game_version": "0.25",
+            "image": "https://storage.kunoichi-trainer.ninja/public/mods/images/patron/kurenai_date.webp",
+            "author": "Dinaki",
+            "file_name": "kurenai_date.zip"
+        },
+        {
             "id": "tayuya",
             "name": "Tayuya",
             "version": "1.0",
